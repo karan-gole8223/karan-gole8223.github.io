@@ -1,0 +1,63 @@
+.product
+{
+    padding: 30px 0px;
+}
+
+body
+{
+    background-image: url('/images/back.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+
+}
+
+
+.back
+{
+    background-color:gainsboro;
+}
+   
+.intro
+{
+  padding: 30px 0px;  
+}
+.carousel-inner.home
+{
+    width: 100%;
+    height: 600px;
+}
+
+.pics
+{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+
+.map
+{
+    padding: 30px 0px;
+}
+.footer
+{
+    padding: 30px 0px;
+}
+
+.copyright
+{
+    padding: 20px 45px;
+    color: aqua;
+    
+}
+.creditl
+{
+    text-align: left;
+}
+.creditr
+{
+    text-align: right;
+}
